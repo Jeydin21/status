@@ -10,7 +10,7 @@ sites:
     url: https://anime.j21.dev
 
 status-website:
-  theme: ocean
+  css: "body { background: #1e1e2e; color: #cdd6f4 } nav { background: #313244; }"
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.j21.dev

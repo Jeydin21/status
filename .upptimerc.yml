@@ -13,8 +13,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.j21.dev
   # baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status
+  logoUrl: https://github.com/Jeydin21/status/blob/e0127164f7d1e08c49993fb368bb4f8383e593e8/assets/icon.png
+  name: "Jeydin's Status Page"
   introTitle: "Status Page"
   introMessage: This is a serverless status page which uses **real-time** data to display the status of my websites
   # navbar:

@@ -6,6 +6,8 @@ assignees: # Users to assign downtime issues (optional)
 sites:
   - name: Personal Website
     url: https://j21.dev
+  - name: Personal Blog
+    url: https://blog.j21.dev
   - name: Munchyroll
     url: https://anime.j21.dev
 

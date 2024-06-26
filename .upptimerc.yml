@@ -10,14 +10,14 @@ sites:
     url: https://anime.j21.dev
 
 status-website:
-  theme: night
+  theme: ocean
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.j21.dev
   # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/Jeydin21/status/e0127164f7d1e08c49993fb368bb4f8383e593e8/assets/icon.png
   name: "Jeydin's Status Page"
-  introTitle: "Status Page"
+  # introTitle: "Status Page"
   introMessage: This is a serverless status page which uses **real-time** data to display the status of my websites
   metaTags:
     - name: "description"

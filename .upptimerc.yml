@@ -9,6 +9,7 @@ sites:
     url: https://anime.j21.dev
 
 status-website:
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.j21.dev
@@ -17,6 +18,9 @@ status-website:
   name: "Jeydin's Status Page"
   introTitle: "Status Page"
   introMessage: This is a serverless status page which uses **real-time** data to display the status of my websites
+  metaTags:
+    - name: "description"
+      content: "This is a serverless status page which uses real-time data to display the status of my websites"
   # navbar:
   #   - title: Status
   #     href: /

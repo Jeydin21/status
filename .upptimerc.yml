@@ -20,15 +20,15 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/Jeydin21/status/e0127164f7d1e08c49993fb368bb4f8383e593e8/assets/icon.png
   name: "Jeydin's Status Page"
   # introTitle: "Status Page"
-  introMessage: This is a serverless status page which uses **real-time** data to display the status of my websites
+  # introMessage: This is a serverless status page which uses **real-time** data to display the status of my websites
   metaTags:
     - name: "description"
       content: "This is a serverless status page which uses real-time data to display the status of my websites"
-  # navbar:
-  #   - title: Status
-  #     href: /
-  #   - title: GitHub
-  #     href: https://github.com/$OWNER/$REPO
+  navbar:
+    - title: Home
+      href: https://j21.dev
+    - title: Status
+      href: /
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

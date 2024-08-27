@@ -4,53 +4,59 @@
     "url": "https://j21.dev",
     "icon": "https://icons.duckduckgo.com/ip3/j21.dev.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
     "timeDay": 125,
-    "timeWeek": 167,
-    "timeMonth": 151,
+    "timeWeek": 162,
+    "timeMonth": 150,
     "timeYear": 145,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-27": 0
+    }
   },
   {
     "name": "Personal Blog",
     "url": "https://blog.j21.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.j21.dev.ico",
     "slug": "personal-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 5076,
-    "timeWeek": 955,
-    "timeMonth": 360,
-    "timeYear": 248,
-    "dailyMinutesDown": {}
+    "time": 246,
+    "timeDay": 2589,
+    "timeWeek": 849,
+    "timeMonth": 351,
+    "timeYear": 246,
+    "dailyMinutesDown": {
+      "2024-08-27": 0
+    }
   },
   {
     "name": "Munchyroll",
     "url": "https://anime.j21.dev",
     "icon": "https://icons.duckduckgo.com/ip3/anime.j21.dev.ico",
     "slug": "munchyroll",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 68,
-    "timeWeek": 141,
-    "timeMonth": 327,
-    "timeYear": 215,
-    "dailyMinutesDown": {}
+    "time": 213,
+    "timeDay": 92,
+    "timeWeek": 138,
+    "timeMonth": 320,
+    "timeYear": 213,
+    "dailyMinutesDown": {
+      "2024-08-27": 0
+    }
   }
 ]

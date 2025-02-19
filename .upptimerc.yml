@@ -8,8 +8,6 @@ sites:
     url: https://j21.dev
   - name: Personal Blog
     url: https://blog.j21.dev
-  - name: Munchyroll
-    url: https://anime.j21.dev
 
 status-website:
   css: "body { background: #1e1e2e; color: #cdd6f4 } nav { background: #313244; }"

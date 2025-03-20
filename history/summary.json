@@ -4,14 +4,14 @@
     "url": "https://j21.dev",
     "icon": "https://icons.duckduckgo.com/ip3/j21.dev.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.56%",
     "uptimeDay": "54.14%",
-    "uptimeWeek": "45.03%",
-    "uptimeMonth": "87.35%",
+    "uptimeWeek": "45.31%",
+    "uptimeMonth": "87.42%",
     "uptimeYear": "98.56%",
     "time": 137,
-    "timeDay": 150,
+    "timeDay": 149,
     "timeWeek": 128,
     "timeMonth": 127,
     "timeYear": 137,
@@ -22,7 +22,7 @@
       "2025-03-17": 1087,
       "2025-03-16": 1066,
       "2025-03-15": 1047,
-      "2025-03-14": 145
+      "2025-03-14": 116
     }
   },
   {
@@ -33,8 +33,8 @@
     "status": "down",
     "uptime": "98.57%",
     "uptimeDay": "42.54%",
-    "uptimeWeek": "45.67%",
-    "uptimeMonth": "87.50%",
+    "uptimeWeek": "45.49%",
+    "uptimeMonth": "87.46%",
     "uptimeYear": "98.57%",
     "time": 166,
     "timeDay": 141,
@@ -42,7 +42,7 @@
     "timeMonth": 136,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-03-20": 511,
+      "2025-03-20": 529,
       "2025-03-19": 923,
       "2025-03-18": 968,
       "2025-03-17": 1024,

@@ -4,14 +4,14 @@
     "url": "https://j21.dev",
     "icon": "https://icons.duckduckgo.com/ip3/j21.dev.ico",
     "slug": "personal-website",
-    "status": "up",
-    "uptime": "97.82%",
-    "uptimeDay": "47.19%",
-    "uptimeWeek": "25.29%",
-    "uptimeMonth": "80.90%",
-    "uptimeYear": "97.82%",
+    "status": "down",
+    "uptime": "98.55%",
+    "uptimeDay": "47.65%",
+    "uptimeWeek": "44.60%",
+    "uptimeMonth": "87.25%",
+    "uptimeYear": "98.55%",
     "time": 136,
-    "timeDay": 147,
+    "timeDay": 146,
     "timeWeek": 127,
     "timeMonth": 126,
     "timeYear": 136,
@@ -22,9 +22,7 @@
       "2025-03-17": 1087,
       "2025-03-16": 1066,
       "2025-03-15": 1047,
-      "2025-03-14": 1325,
-      "2025-03-13": 1440,
-      "2025-03-12": 308
+      "2025-03-14": 289
     }
   },
   {
@@ -32,14 +30,14 @@
     "url": "https://blog.j21.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.j21.dev.ico",
     "slug": "personal-blog",
-    "status": "up",
-    "uptime": "97.85%",
-    "uptimeDay": "43.89%",
-    "uptimeWeek": "26.83%",
-    "uptimeMonth": "81.17%",
-    "uptimeYear": "97.85%",
+    "status": "down",
+    "uptime": "98.56%",
+    "uptimeDay": "44.35%",
+    "uptimeWeek": "45.09%",
+    "uptimeMonth": "87.36%",
+    "uptimeYear": "98.56%",
     "time": 167,
-    "timeDay": 146,
+    "timeDay": 145,
     "timeWeek": 139,
     "timeMonth": 136,
     "timeYear": 167,
@@ -50,9 +48,7 @@
       "2025-03-17": 1024,
       "2025-03-16": 867,
       "2025-03-15": 1010,
-      "2025-03-14": 1369,
-      "2025-03-13": 1440,
-      "2025-03-12": 344
+      "2025-03-14": 439
     }
   }
 ]
